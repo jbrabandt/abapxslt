@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v0.2-alpha">
+ <T100A>
+  <ARBGB>/ENSX/MSG_XSLT</ARBGB>
+  <MASTERLANG>E</MASTERLANG>
+  <APPLCLASS></APPLCLASS>
+  <RESPUSER></RESPUSER>
+  <LASTUSER></LASTUSER>
+  <LDATE>00000000</LDATE>
+  <LTIME>000000</LTIME>
+  <STEXT>XSLT Messages</STEXT>
+ </T100A>
+ <T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>/ENSX/MSG_XSLT</ARBGB>
+   <MSGNR>001</MSGNR>
+   <TEXT>XSLT: &amp;, &amp;, &amp;, &amp;</TEXT>
+  </T100>
+ </T100>
+</abapGit>
